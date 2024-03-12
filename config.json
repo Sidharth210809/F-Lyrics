@@ -4,7 +4,7 @@
     "lyric_file_path": "downloads/{artist} - {album} [{year}]/{trackNo}. {title}",
     "applemusic": {
         "auth_bearer": "Bearer ey",
-        "media-user-token": "must_required"
+        "media-user-token": "Ai3EtDRRuM5Bw+TnE+PT+rJhxNP6OldiJ9Ib7Po79QPpYTddmtMnrvz8d2AWrqOl7DhA/T6ZwvPJxVu1rBGsYQI7vTV6lvDNIX8omuGJahvdIe23W0iN8Zmsd5yYnTVwB/VLQZmG9JqowVoVt+vc24h5hwoo0mjefwYxdS93WyfM0R48NwXPOD+Mj2ZiWru3c8NdHIzLqnAGu0dBmRPv49dP7Pw+lP3sH9SVJFkRT+9SeROLcA==
     },
     "spotify": {
         "sp_dc": "must_required_get_from_cookies",
